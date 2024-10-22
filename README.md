@@ -1,2 +1,1 @@
-# pagina-web-k
-repositorio de mi pagina web
+este es el repositorio de mi pagina web 
